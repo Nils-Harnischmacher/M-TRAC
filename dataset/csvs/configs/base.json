@@ -1,0 +1,17 @@
+{
+  "scene_length": 1,
+  "shake_settings": {
+  "correction_matrix": [
+    [0.0, 0.0, -1.0],
+    [0.0, -1.0, 0.0],
+    [1.0, 0.0, 0.0]
+  ],
+    "trapezoid": true,
+    "rubberband": true,
+    "k_spring": 6,
+    "alpha_exp": 0.8,
+    "c_damp": 4.4,
+    "deadband": 0.001
+
+  }
+}

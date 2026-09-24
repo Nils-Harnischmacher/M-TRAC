@@ -1,0 +1,33 @@
+name;gt;center_x;center_y;center_z;width;hight
+home_tab; Home;-0.875371;0.867156;0;0.10;0.05
+chart_tab; Chart;-0.712153;0.867156;0;0.11;0.05
+finacial_tab; Financial;-0.525707;0.867156;0;0.17;0.05
+insurance_tab; Insurance;-0.30049;0.867156;0;0.18;0.05
+documents_tab; Documents;-0.046717;0.867156;0;0.21;0.05
+medication_tab; Medication;0.213093;0.867156;0;0.2;0.05
+lab_tab; Lab;0.402875;0.867156;0;0.07;0.05
+status_label; EMERGENT - IMMEDIATE - ;0.811899;0.856533;0;0.32;0.16
+vitals_label; Vital Signs:;-0.768607;0.674938;0;0.37;0.13
+blod_pressure_label; Blood Pressure:;-0.780208;0.527737;0;0.34;0.09
+blod_pressure_text_box; 140/90;-0.429532;0.527737;0;0.15;0.09
+blood_pressure_unit_label; mmHg; -0.247702;0.527737;0;0.15;0.09
+respiratory_rate_label;  Respiratory Rate:;-0.768473 ;0.391937;0;0.36;0.09
+respiratory_rate_text_box; 35 ;-0.429532;0.391937;0;0.06;0.09
+respiratory_rate_unit_label; breaths/min; -0.192963;0.391937;0;0.26;0.09
+oxygen_saturation_label; Oxygen Saturation:;-0.750451;0.255969;0;0.4;0.09
+oxygen_saturation_text_box; 95 ;-0.429532;0.255969;0;0.06;0.09
+oxygen_saturation_unit_label; %; -0.301267;0.255969;0;0.04;0.09
+heart_rate_label; Heart Rate:;-0.828913;0.129043;0;0.25;0.09
+heart_rate_text_box; 120;-0.429532;0.129043;0;0.08;0.09
+heart_rate_unit_label; bpm; -0.27202; 0.129043;0;0.1;0.09
+pain_level_label; Pain level:;  0.14713;0.527737;0;0.23;0.09
+pain_level_text_box; 7;  0.56181 ;0.527737;0;0.06;0.09
+pain_level_unit_label; /10; 0.71172;0.527737;0;0.09;0.09
+weight_label; Weight:; 0.121966;0.391937;0;0.17;0.09
+weight_text_box; 75 ;0.56181;0.391937;0;0.06;0.09
+weight_unit_label; kg ;0.697368;0.391937;0;0.06;0.09
+height_label; Height:;0.113333;0.255969;0;0.14;0.09
+height_text_box; 175; 0.56181;0.255969;0;0.08;0.09
+height_unit_label; cm;0.704248;0.255969;0;0.07;0.09
+HPI_label; HPI:; -0.876667;-0.002027 ;0;0.14;0.1
+HPI_text_box; Jon Doh, a 28-year-old previously healthy male, presents to the emergency department with a sudden onset of severe central chest pain, which he describes as a 7/10 “crushing” sensation. The pain began approximately one hour ago while he was jogging and has been constant since. It radiates to his left shoulder and is accompanied by marked shortness of breath. He reports feeling lightheaded and sweaty, with palpitations. He denies any previous episodes of similar pain, recent trauma, fever, or cough. Only uses PRN medications such as sumatriptan or salbutamol and has no known chronic health issues. He denies smoking but occasionally drinks alcohol recreationally. There is no family history of early heart disease. He works a desk job and exercises irregularly. On arrival, he appears visibly distressed, breathing rapidly, and clutching his chest. ;0.01243;-0.457198;0;1.9;0.758
